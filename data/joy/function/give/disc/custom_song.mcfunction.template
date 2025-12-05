@@ -1,0 +1,1 @@
+give @s music_disc_creator[jukebox_playable="joy:custom_song",item_model="joy:music_disc_custom_song"] 1
