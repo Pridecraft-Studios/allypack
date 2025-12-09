@@ -1,6 +1,14 @@
 {
   "pack": {
-    "description": "Allypack 0.0\nby Pridecraft Studios",
-    "pack_format": 94
+    "description": "Allypack 1.0\nby Pridecraft Studios",
+    "pack_format": 94,
+    "min_format": [
+      94,
+      0
+    ],
+    "max_format": [
+      94,
+      1
+    ]
   }
-} 
+}
