@@ -1,13 +1,27 @@
 {
   "pack": {
-    "description": "Allypack 1.0.1\nby Pridecraft Studios",
+    "description": {
+      "text": "Allypack 2.0",
+      "extra": [
+        {
+          "text": "by Pridecraft Studios",
+          "italic": true
+        }
+      ],
+      "hover_event": {
+        "action": "show_text",
+        "value": {
+          "text": "This datapack requires and is required by Pridepack to function correctly."
+        }
+      }
+    },
     "pack_format": 94,
     "min_format": [
       94,
       0
     ],
     "max_format": [
-      101,
+      107,
       1
     ]
   }

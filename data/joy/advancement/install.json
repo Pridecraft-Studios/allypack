@@ -4,7 +4,7 @@
       "id": "minecraft:bee_spawn_egg"
     },
     "title": "Allypack",
-    "description": "If you're reading this, Allypack is on!",
+    "description": "If you're reading this, Allypack is working!",
     "background": "minecraft:entity/end_portal",
     "frame": "goal",
     "show_toast": false,

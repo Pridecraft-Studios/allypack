@@ -17,10 +17,6 @@ You can support the developers of Pridecraft Studios by donating on Patreon
 
 <iframe src="https://www.youtube.com/embed/ZyazvpZAmGU?autoplay=1&rel=0" width="560" height="315" title="Pridepack Trailer" frameborder="0" allowfullscreen></iframe> -->
 
-## Screenshots
-
-None yet! Stay tuned.
-
 ## Who
 
 Pridecraft Studios is a collective modding group that creates resource packs, tooling, and our flagship mod, Joy.
@@ -34,10 +30,9 @@ We target both Java and Bedrock editions, hoping to create memorable experiences
 ## Socials
 
 [![Join our Discord](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/discord-plural_vector.svg)](https://discord.pridecraft.gay)
-[![Chat with us on Mastodon](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/mastodon-plural_vector.svg)](https://tech.lgbt/@pridecraft)
+[![Chat with us on Mastodon](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/mastodon-plural_vector.svg)](https://tech.lgbt/@pridecraft)  
 [![Watch us on Youtube](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/compact/social/youtube-plural_vector.svg)](https://youtube.com/@pridecraftstudios)
 [![Chat with us on Bluesky](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=00A5E4&gradientEnd=0076B1&lineOne=Chat%20with%20us%20on&lineTwo=Bluesky&colourOne=FFFFFF&colourTwo=FFFFFF&iconUrl=https://raw.githubusercontent.com/OzzyCzech/bluesky-icon/main/dist/bluesky-icon.white.png)](https://bsky.app/profile/pridecraft.gay)
-[![Check out our Instagram](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=BA5353&gradientEnd=61003D&lineOne=Check%20out%20our&lineTwo=Instagram&colourOne=FFFFFF&colourTwo=FFF&iconUrl=https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png)](https://instagram.com/pridecraftstudios)
 
 # Licenses
 
