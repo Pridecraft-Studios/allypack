@@ -1,0 +1,9 @@
+{
+  "asset_id": "joy:entity/axolotl/axolotl_mlm",
+  "baby_asset_id": "joy:entity/axolotl/axolotl_mlm_baby",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "asset_id": "joy:entity/axolotl/axolotl_lesbian",
+  "baby_asset_id": "joy:entity/axolotl/axolotl_lesbian_baby",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}

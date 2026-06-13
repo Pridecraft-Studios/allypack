@@ -1,0 +1,9 @@
+{
+  "asset_id": "joy:entity/axolotl/axolotl_aroace",
+  "baby_asset_id": "joy:entity/axolotl/axolotl_aroace_baby",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "asset_id": "joy:entity/axolotl/axolotl_progress",
+  "baby_asset_id": "joy:entity/axolotl/axolotl_progress_baby",
+  "spawn_conditions": [
+    {
+      "priority": 0
+    }
+  ]
+}
